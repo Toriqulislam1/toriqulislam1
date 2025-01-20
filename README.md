@@ -4,8 +4,8 @@ I have 3 years of great experience in Web Development.  I have been working on L
 
 Skills: LARAVEL  /PHP/MYSQL/ JS / BOOTSTRAP/ CSS/ HTML
 
-- 🔭 I’m currently working on Laravel 
-- 💬 Ask me about LARAVEL, PHP 
+- 🔭 I’m currently working on Laravel & Vue js
+- 💬 Ask me about LARAVEL, PHP , Vue js
 - 📫 How to reach me: toriqulislam2720@gmail.com 
 
 
