@@ -1,6 +1,6 @@
 ### Hi there 👋, Toriqul islam
 #### I am a full stack web developer.
-I have 3 years of great experience in Web Development.  I have been working on Laravel, PHP, JavaScript, JQuery, Vue js, Ajax, HTML, CSS, Bootstrap in web technologies.
+I have 3+ years of great experience in Web Development.  I have been working on Laravel, PHP, JavaScript, JQuery, Vue js, Ajax, HTML, CSS, Bootstrap in web technologies.
 
 Skills: LARAVEL  /PHP/MYSQL/ JS / BOOTSTRAP/ CSS/ HTML
 
