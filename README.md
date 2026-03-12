@@ -1,13 +1,97 @@
 
-### Hi there 👋, Toriqul islam
-#### I am a full stack web developer.
-I have 4+ years of great experience in Web Development.  I have been working on Laravel, PHP, JavaScript, JQuery, Vue js, Ajax, HTML, CSS, Bootstrap in web technologies.
+👋 Hi, I'm Toriqul Islam
+🚀 Full Stack Web Developer | Laravel & Vue.js Specialist
 
-Skills: LARAVEL  /PHP/MYSQL/ JS / BOOTSTRAP/ CSS/ HTML
+I am a results-driven Full Stack Web Developer with 4+ years of professional experience in designing, developing, and deploying scalable web applications. My expertise lies in building secure and efficient backend systems using Laravel & PHP, while crafting dynamic and responsive user interfaces with Vue.js and modern JavaScript technologies.
 
-- 🔭 I’m currently working on Laravel & Vue js
-- 💬 Ask me about LARAVEL, PHP , Vue js
-- 📫 How to reach me: toriqulislam2720@gmail.com 
+I am passionate about writing clean, maintainable code and building high-performance applications that deliver excellent user experiences. I enjoy solving complex problems, optimizing system performance, and continuously learning new technologies to stay aligned with modern development standards.
+
+💼 Professional Expertise
+
+✔ Architecting scalable Laravel-based web applications
+
+✔ Developing RESTful APIs and backend services
+
+✔ Creating dynamic and reactive interfaces using Vue.js
+
+✔ Implementing database design and optimization with MySQL
+
+✔ Building responsive UI/UX with modern frontend technologies
+
+✔ Writing clean, maintainable, and well-structured code
+
+🛠 Technology Stack
+Backend
+
+Laravel
+
+PHP
+
+RESTful API Development
+
+MySQL
+
+MVC Architecture
+
+Frontend
+
+Vue.js
+
+JavaScript (ES6+)
+
+jQuery
+
+Ajax
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+Development Tools
+
+Git & GitHub
+
+Composer
+
+NPM
+
+VS Code
+
+📈 Professional Experience
+
+🔹 4+ Years of experience in full stack web development
+
+🔹 Developed multiple custom web applications and business solutions
+
+🔹 Experience in API integration, authentication systems, dashboards, and admin panels
+
+🔹 Strong understanding of performance optimization and scalable architecture
+
+🔭 Current Focus
+
+Building modern Laravel & Vue.js applications
+
+Improving application architecture and performance
+
+Learning and implementing modern development practices
+
+🤝 Collaboration
+
+I am open to collaborating on:
+
+Laravel-based web applications
+
+Vue.js frontend projects
+
+API-driven systems
+
+Open-source contributions
+
+📫 Contact & Links
+
+📧 Email: toriqulislam2720@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Toriqulislam1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100068653841082)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/toriqulislam123//)  
